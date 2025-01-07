@@ -1,4 +1,4 @@
-### Due to some technical issue, i am not able to upload video, that why i am adding screenShots of the application
+### Due to some technical issue, i am not able to upload video, that's why i am adding screenShots of the application
 
 ## HomePage
 ![home](./images/homepage1.png)
